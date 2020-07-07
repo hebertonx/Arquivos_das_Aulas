@@ -6,4 +6,10 @@ public class PrimeiroPrograma {
 		System.out.println("Primeiro programa!");
 	}
 
+	public static void main(String[] args) {
+		System.out.println("Primeiro programa! Parte 01");
+		System.out.println("Primeiro programa! Parte 02");
+		System.out.println("Primeiro programa! Parte 03");
+	}
+
 }
